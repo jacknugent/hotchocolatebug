@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace HotChocolate.Server.Template
+namespace hotchocolatebug
 {
     public class Program
     {
